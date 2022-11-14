@@ -1,4 +1,4 @@
-package com.pkkostov18.vacationmanager;
+package com.spganchev18.vacationmanager;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
